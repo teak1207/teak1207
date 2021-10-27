@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/java-red?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white"/>
 <a href="https://www.notion.so/Gong-62ac5ac4d1b940b8ab97f2eac3dfa07f" target="_blank"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/></a>
 
 
